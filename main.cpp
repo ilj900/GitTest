@@ -2,5 +2,5 @@
 
 void main()
 {
-	std::cout<<"Hello, World"<<std::endl;
+	std::cout<<"A Brand New \" Hello World\""<<std::endl;
 }
